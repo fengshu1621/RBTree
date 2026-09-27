@@ -392,5 +392,6 @@ int main(){
     rb.insert(i);
   }
 rb.remove(9);
+cout<<"hello"<<endl;
 }
     
