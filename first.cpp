@@ -393,5 +393,6 @@ int main(){
   }
 rb.remove(9);
 cout<<"hello"<<endl;
+cout<<"hello"<<endl;
 }
     
